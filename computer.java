@@ -1,5 +1,5 @@
 public class computer {
     public static void main(String[] args) {
-        System.out.println("bilgisayar");
+        System.out.println("remote");
     }
 }
